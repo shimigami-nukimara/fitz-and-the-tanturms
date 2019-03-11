@@ -1,0 +1,18 @@
+/* 
+table of content
+
+*/
+
+
+
+
+@charset "utf-8";
+body{
+background: rgb(183,222,237);
+background: -moz-linear-gradient(left, rgba(183,222,237,1) 0%, rgba(255,38,41,1) 55%, rgba(183,222,237,1) 100%);
+background: -webkit-linear-gradient(left, rgba(183,222,237,1) 0%,rgba(255,38,41,1) 55%,rgba(183,222,237,1) 100%);
+background: linear-gradient(to right, rgba(183,222,237,1) 0%,rgba(255,38,41,1) 55%,rgba(183,222,237,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed',GradientType=1 );}
+}
+
+*{ box-sizing: border-box;}
